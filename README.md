@@ -1,4 +1,4 @@
-4.2
+4.3
 # 🚧 🚧 🚧
 ## react-native-camera is deprecated.
 
